@@ -10,7 +10,7 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "One Love - Shubh", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "One Love - Shubh", filePath: "https://github.com/Ayushcode24/Spotify_Clone/blob/main/1.mp3", coverPath: "covers/1.jpg"},
     {songName: "Tauba Tauba - Karan Aujla", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "No Love - Shubh", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "Still Rollin - Shubh", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
